@@ -35,7 +35,6 @@ This was a fun side project to sharpen my Power BI and DAX skills, and also expe
 
 If you're into dashboards or want to give feedback, feel free to connect with me:
 
-LinkedIn: https://www.linkedin.com/in/saraswat-vivek/  
-Email: viveksaraswat49@gmail.com
 
+Email: shaikabdulla2187.sse@savetha.com
 Thanks for stopping by!
